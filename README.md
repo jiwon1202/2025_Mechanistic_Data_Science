@@ -14,4 +14,4 @@
 - [Find Best Fit Regression](https://github.com/jiwon1202/2025_Mechanistic_Data_Science/blob/main/03_Advanced_Regression/find_best_fit_regression.ipynb)
 
 ### 4) Fourier Transform (25.04.01)
-- [Fourier Transform] (https://github.com/jiwon1202/2025_Mechanistic_Data_Science/blob/main/03_Advanced_Regression/fourier_transform.ipynb)
+- [Fourier Transform](https://github.com/jiwon1202/2025_Mechanistic_Data_Science/blob/main/04_Fourier_Transform/fourier_transform.ipynb)
