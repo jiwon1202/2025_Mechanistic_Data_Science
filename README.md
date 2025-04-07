@@ -12,3 +12,6 @@
 ### 3) Advanced Regression (25.03.26)
 - [Piecewise Linear and MLS Regression](https://github.com/jiwon1202/2025_Mechanistic_Data_Science/blob/main/03_Advanced_Regression/piecewise_linear_and_mls_regression.ipynb)
 - [Find Best Fit Regression](https://github.com/jiwon1202/2025_Mechanistic_Data_Science/blob/main/03_Advanced_Regression/find_best_fit_regression.ipynb)
+
+### 4) Fourier Transform (25.04.01)
+- [Fourier Transform] (https://github.com/jiwon1202/2025_Mechanistic_Data_Science/blob/main/03_Advanced_Regression/fourier_transform.ipynb)
