@@ -13,5 +13,8 @@
 - [Piecewise Linear and MLS Regression](https://github.com/jiwon1202/2025_Mechanistic_Data_Science/blob/main/03_Advanced_Regression/piecewise_linear_and_mls_regression.ipynb)
 - [Find Best Fit Regression](https://github.com/jiwon1202/2025_Mechanistic_Data_Science/blob/main/03_Advanced_Regression/find_best_fit_regression.ipynb)
 
-### 4) Fourier Transform (25.04.01)
+### 4) Fourier Transform (25.04.02)
 - [Fourier Transform](https://github.com/jiwon1202/2025_Mechanistic_Data_Science/blob/main/04_Fourier_Transform/fourier_transform.ipynb)
+
+### 5) Clustering (25.04.09)
+- [Clustering](https://github.com/jiwon1202/2025_Mechanistic_Data_Science/blob/main/05_Clustering/clustering.ipynb)
