@@ -21,3 +21,6 @@
 
 ### 6) Dimension Reduction (25.04.16)
 - [Dimension Reduction](https://github.com/jiwon1202/2025_Mechanistic_Data_Science/blob/main/06_Dimension_Reduction/dimension_reduction.ipynb)
+
+### 7) Deep Learning1 - Compare the Regression (25.04.30)
+- [Compare the Regression](https://github.com/jiwon1202/2025_Mechanistic_Data_Science/blob/main/07_DL1/dl1_compare_regression.ipynb)
