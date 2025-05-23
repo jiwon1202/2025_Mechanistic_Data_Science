@@ -24,3 +24,6 @@
 
 ### 7) Deep Learning1 - Compare the Regression (25.04.30)
 - [Compare the Regression](https://github.com/jiwon1202/2025_Mechanistic_Data_Science/blob/main/07_DL1/dl1_compare_regression.ipynb)
+
+### 8) Deep Learning2 - X-Ray Image Classification (25.05.07)
+- [X-Ray Image Classification](https://github.com/jiwon1202/2025_Mechanistic_Data_Science/blob/main/08_DL2/x-ray_classification.ipynb)
